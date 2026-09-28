@@ -1,19 +1,25 @@
-# <!-- Banner Section -->
+<!-- Banner Section -->
 <p align="center">
-  <img src="hero.jpg" width="1000" height="300"style="border-radius: 10px;" />
+  <img src="hero.jpg" alt="Header Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm a Web Developer 👋</h1>
+<h1 align="center">Hi there, I'm Robiul 👋</h1>
 
 <p align="center">
-  <em>Passionate about building responsive web applications, learning modern frontend & backend technologies, and continuously exploring new solutions.</em>
+  <em>Passionate Web Developer | Building responsive web applications & exploring modern web technologies.</em>
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:robiuljpr@.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **Currently Working On:** Building and optimizing dynamic web applications.
+- 🔭 **Currently Working On:** Building and optimizing dynamic, responsive web applications.
 - 🔬 **Exploring & Researching:** Advanced frontend architecture, server-side performance, and modern JavaScript ecosystem.
 - 💬 **Ask Me About:** HTML, CSS, JavaScript, React, Next.js, and Web Development.
 - ⚡ **Fun Fact:** I love solving problems through code and constantly upgrading my tech stack.
@@ -35,11 +41,24 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
+#### **Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robiulbd&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulbd&theme=radial" alt="GitHub Streak" width="48%" />
-</p>robiulbd
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiulbd&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulbd&theme=radial" alt="GitHub Streak" width="97%" />
+</p>
