@@ -1,6 +1,6 @@
 # <!-- Banner Section -->
 <p align="center">
-  <img src="hero.jpg" width="100%" style="border-radius: 10px;" />
+  <img src="hero.jpg" width="800" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi there, I'm a Web Developer 👋</h1>
