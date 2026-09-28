@@ -1,6 +1,6 @@
 # <!-- Banner Section -->
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1CaMq1n6bDP0Mf25Vc6eLhg313GFLPBL9" alt="Header Banner" width="100%" style="border-radius: 10px;" />
+  <img src="hero.jpg" width="100%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi there, I'm a Web Developer 👋</h1>
